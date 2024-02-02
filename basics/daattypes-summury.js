@@ -19,3 +19,7 @@ const myFunction = function(){
     console.log("Hello world")
 }
 console.log(typeof myFunction)
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Stck(Primitive), Heap (Non_Primitive)
